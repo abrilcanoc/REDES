@@ -1,1 +1,17 @@
 www.javeriana.edu.co,1,class,type,rdlength,200.3.149.136
+www.google.com,1,class,type,rdlength,142.250.78.68
+www.youtube.com,1,class,type,rdlength,142.250.78.110
+www.amazon.com,1,class,type,rdlength,205.251.242.103
+www.amazon.com,1,class,type,rdlength,54.239.28.85
+www.amazon.com,1,class,type,rdlength,176.32.103.205
+www.facebook.com,1,class,type,rdlength,157.240.6.35
+www.twitter.com,1,class,type,rdlength,104.244.42.65
+www.instagram.com,1,class,type,rdlength,34.200.188.25
+www.instagram.com,1,class,type,rdlength,52.200.136.249
+www.instagram.com,1,class,type,rdlength,54.175.133.5
+www.instagram.com,1,class,type,rdlength,34.236.169.116
+www.instagram.com,1,class,type,rdlength,3.213.173.201
+www.instagram.com,1,class,type,rdlength,34.230.186.253
+www.instagram.com,1,class,type,rdlength,3.215.107.61
+www.instagram.com,1,class,type,rdlength,54.88.48.170
+
