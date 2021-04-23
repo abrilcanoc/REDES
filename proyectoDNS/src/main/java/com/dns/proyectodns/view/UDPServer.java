@@ -34,7 +34,7 @@ public class UDPServer {
         //La siguientes líneas simulan un resultado...
         //El resultado se da a partir del Master File:
         //  Si no se encuentra el par URL - IPv4 en el Master File, se hace un query a otro DNS.
-        String ipResuelto = new String("192.158.1.38");
+        String ipResuelto = "192.158.1.38";
         byte[] ipResByteArray = ipResuelto.getBytes();
         
         DatagramPacket queryResponse = new DatagramPacket(ipResByteArray, ipResByteArray.length, client_ip_address, clientPortNumber);
