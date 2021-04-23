@@ -19,6 +19,8 @@ public class UDPClient {
         DatagramPacket queryPacket = new DatagramPacket(urlByteArray, urlByteArray.length, dns_ip_address, portNumber);
         
         clientSocket.send(queryPacket); //Enviando el paquete a través del socket...
+        //La siguiente línea simula la concurrencia entre los dos procesos:
+        UDPServer.main(args);
         
         int tamanoRespuesta = 1024; //TODO: Determinar de qué tamaño (en Bytes) debe ser el paquete que contiene la respuesta al query, teniendo en cuenta todos los campos de Registro tipo A.
         byte[] responseByteArray = new byte[tamanoRespuesta];
