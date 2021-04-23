@@ -1,1 +1,1 @@
-name,ttl,class,type,rdlength,rdata
+www.javeriana.edu.co,1,class,type,rdlength,200.3.149.136
